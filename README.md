@@ -1,2 +1,2 @@
 # VCS_training
-This a VCS training repository
+## This a VCS training repository
